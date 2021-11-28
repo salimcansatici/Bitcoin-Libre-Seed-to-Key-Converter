@@ -1,0 +1,17 @@
+{
+  "name": "bitcoin-libre-seed-to-key-converter",
+  "dependencies": {
+    "hdkey": "2.0.1",
+    "wif": "2.0.6",
+    "eosjs-ecc": "4.0.7",
+    "bip39": "3.0.4"
+  },
+  "version": "1.0.0",
+  "description": "EOSIO-chain compatible Mnemonic Key Conversion BIP44 designed for Bitcoin Libre which runs on Proton Chain https://protonchain.com",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salimcan",
+  "license": "ISC"
+}
